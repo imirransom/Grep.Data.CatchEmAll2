@@ -2,14 +2,51 @@
 ### a)
 ggrep -P "beed" filescan_00.1
 ggrep -P "blas" filescan_00.1
+ggrep -P "butt" filescan_00.1
+ggrep -P "bulb" filescan_00.1
+
+ggrep -P "izard" filescan_00.2
+ggrep -P "meleon" filescan_00.2
+ggrep -P "mander" filescan_00.2
+
+ggrep -P "ivys" filescan_00.3
+ggrep -P "jigg" filescan_00.3
+ggrep -P "pika" filescan_00.3
+ggrep -P "meow" filescan_00.3
+
+ggrep -P "psyd" filescan_00.4
+ggrep -P "saur" filescan_00.4
+ggrep -P "war" filescan_00.4
+ggrep -P "squi" filescan_00.4
 
 
 ### b)
 beedrill.txt
 blastoise.txt
+butterfree.txt
+bulbasaur.txt
+charizard.txt
+charmeleon.txt
+charmander.txt
+ivysaur.txt
+jigglypuff.txt
+meowth.txt
+pikachu.txt
+psyduck.txt
+squirtle.txt
+venusaur.txt
+wartortle.txt
 
 
 ### c)
+beedrill, blastoise, butterfree, and bulbasaur were found in the filescan_00.1
+
+charizard, charmeleon, and charmander were found in the filescan_00.2
+
+ivysaur, jigglypuff, meowth, and pikachu were found in the filescan_00.3
+
+psyduck, squirtle, venusaur, and wartortle were found in the filescan_00.4
+
 
 
 
