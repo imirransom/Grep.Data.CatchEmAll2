@@ -1,1 +1,0 @@
-ggrep -P "mander" filescan_00.2

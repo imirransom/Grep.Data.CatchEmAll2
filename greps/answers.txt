@@ -69,7 +69,10 @@ psyduck, squirtle, venusaur, and wartortle were found in the filescan_00.4
 
 
 ### b)
-
+The three biggest pokemon are Beedrill, Charizard, and Pikachu
+ggrep -c 'beed' filescan_00.1
+ggrep -c 'izard' filescan_00.2
+ggrep -c 'pika' filescan_00.3
 
 
 
