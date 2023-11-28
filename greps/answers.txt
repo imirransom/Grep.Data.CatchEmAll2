@@ -52,24 +52,18 @@ psyduck, squirtle, venusaur, and wartortle were found in the filescan_00.4
 
 
 
-
-
-
-
-
-
-
-
 # Part 2
 ### a)
-
+There are 15 pokemon in total
+captured % ls | wc -l
 
 
 
 
 
 ### b)
-The three biggest pokemon are Beedrill, Charizard, and Pikachu
+The three biggest pokemon are Beedrill, Charizard, and Pikachu.
+The number of lines they all have are 40.
 ggrep -c 'beed' filescan_00.1
 ggrep -c 'izard' filescan_00.2
 ggrep -c 'pika' filescan_00.3
